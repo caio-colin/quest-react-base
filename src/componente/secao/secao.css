@@ -1,0 +1,13 @@
+.secao {
+    background-color: black;
+    border-radius: 25px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 500px;
+    backdrop-filter: blur(30px);
+    background: rgba(255, 255, 255, 0.04);
+
+}
